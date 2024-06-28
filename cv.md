@@ -43,7 +43,7 @@ def quarter_of(month):
 
 ## Experience
 
-**Non IT**
+**Non IT:**
   Jul 2021 - Present:
 *Public Communications Specialist*
 
